@@ -3,4 +3,4 @@
 
 ###sub heading
 
-Aline for pusding change from local to git
+A line for pushing change from local to git
